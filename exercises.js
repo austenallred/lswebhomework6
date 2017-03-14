@@ -13,37 +13,25 @@ function subtractFive(num) {
 function areSameLength(str1, str2) {
   //return true if the two strings have the same length
   //otherwise return false
-  if (str1.length == str2.length) {
-    return true;
-  }
-  return false;
+  return (str1.length == str2.length);
 }
 
 function areEqual(x, y) {
   //return true if x and y are the same
   //otherwise return false
-  if (x === y){
-    return true;
-  }
-  return false;
+  return (x === y);
 }
 
 function lessThanNinety(num) {
   //return true if num is less than ninety
   //otherwise return false
-  if (num < 90) {
-    return true;
-  }
-  return false;
+  return num < 90;
 }
 
 function greaterThanFifty(num) {
   //return true if num is greater than fifty
   //otherwise return false
-  if (num > 50) {
-    return true;
-  }
-  return false;
+  return (num > 50);
 }
 
 function add(x, y) {
