@@ -25,8 +25,6 @@
 6. Run `npm test` to run the automated tests.  At first all of the tests will be broken.  You will fill out the functions in `exercises.js` to make the tests pass.
 
 
-
-
 #### Congratulations on finishing Homework #1!
 Apply to our full-time or part-time immersive program to learn cutting edge technologies that are used by top technology companies around the world.
 
