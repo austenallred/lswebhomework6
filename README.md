@@ -13,7 +13,7 @@
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
 
 
-3. Download this project folder from GitHub.
+3. Download (clone) this project folder from GitHub.
 
 
 4. Navigate into the downloaded folder using Terminal(Mac) or Command Prompt(Windows).  `ls`(Mac), `dir`(Windows) and `cd <directory_name>` are the commands you need to navigate around.
