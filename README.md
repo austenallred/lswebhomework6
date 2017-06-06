@@ -4,29 +4,25 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Variables
-	* Strings
-	* Functions (arguments, `return`)
+	* Functions
+	* Parameters
+	* Arguments
 	* `if` statements
-	* Boolean values (`true`, `false`)
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
 
 
-3. Install SublimeText3.  If you have another editor that you prefer then you can use that. https://www.sublimetext.com/3
+3. Download this project folder from GitHub.
 
 
-4. Download this project folder from GitHub.
+4. Navigate into the downloaded folder using Terminal(Mac) or Command Prompt(Windows).  `ls`(Mac), `dir`(Windows) and `cd <directory_name>` are the commands you need to navigate around.
 
 
-5. Navigate into the downloaded folder using Terminal(Mac) or Command Prompt(Windows).  `ls`(Mac), `dir`(Windows) and `cd <directory_name>` are the commands you need to navigate around.
+5. Once you are in the folder type the command `npm install`.  This will fetch all of the needed requirements for the project.
 
 
-6. Once you are in the folder type the command `npm install`.  This will fetch all of the needed requirements for the project.
-
-
-7. Run `npm test` to run the automated tests.  At first all of the tests will be broken.  You will fill out the functions in `exercises.js` to make the tests pass.
+6. Run `npm test` to run the automated tests.  At first all of the tests will be broken.  You will fill out the functions in `exercises.js` to make the tests pass.
 
 
 
