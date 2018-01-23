@@ -4,10 +4,10 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 
-	* Functions
-	* Parameters
-	* Arguments
-	* `if` statements
+	* Functions = Functions are used to perform a task or to calculate values.
+	* Parameters = Parameters are passed to functions so we can interpolate them inside of the function block and later call them.
+	* Arguments = We use arguments when invoking(calling) a function by passing our desired data type as it corresponds to the order of which we set our parameters to our function.
+	* `if` statements = Are used to evaluate whether a certain condition is true or false.
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
 
